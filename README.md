@@ -30,3 +30,4 @@ Además, los profesores pueden consultar los resultados, organizar a los jugador
 unicamente utilice MySQL
 
 ## Declaración de uso de inteligencia artificial
+Se utilizó inteligencia artificial como herramienta de apoyo para la organización y redacción de la documentación del proyecto, así como para orientar la elaboración de las consultas SQL. El diseño de la base de datos fue realizado previamente y se utilizó como referencia para el desarrollo del sistema.
